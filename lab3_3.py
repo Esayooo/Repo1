@@ -1,4 +1,4 @@
 A = int(input("A="))
 B = int(input("B="))
-for number in range(A,B-1,-1):
-    print(number)
+for i in range(A,B-1,-1):
+    print(i)
