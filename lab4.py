@@ -31,11 +31,7 @@ count()
 
 def strip():
     print(s.strip('!'))
-
 strip()
 
-# print(text.isalpha())#检查是不是都是字符串
-# print(Information.capitalize())#将字符串首字母大写
-# print(text.title())#标题大写
 
 
